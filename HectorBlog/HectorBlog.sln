@@ -3,29 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HectorBlog.UI", "http://localhost:51479", "{79E5B81E-A4A3-44F1-835D-5723A5428F2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HectorBlog.Classes", "HectorBlog.Classes\HectorBlog.Classes.csproj", "{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HectorBlog.UI(1)", "http://localhost:53201", "{2B933C48-5040-43C3-879F-CBECA881F0BD}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_51479"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\HectorBlog.UI\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51479\"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53201"
+		Debug.AspNetCompiler.PhysicalPath = "HectorBlog.UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53201\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_51479"
-		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\HectorBlog.UI\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51479\"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53201"
+		Release.AspNetCompiler.PhysicalPath = "HectorBlog.UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53201\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\WebSites\HectorBlog.UI\"
-		DefaultWebSiteLanguage = "Visual C#"
+		SlnRelativePath = "HectorBlog.UI\"
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HectorBlog.Classes", "HectorBlog.Classes\HectorBlog.Classes.csproj", "{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,14 +32,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{79E5B81E-A4A3-44F1-835D-5723A5428F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E5B81E-A4A3-44F1-835D-5723A5428F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79E5B81E-A4A3-44F1-835D-5723A5428F2B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{79E5B81E-A4A3-44F1-835D-5723A5428F2B}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E6F6C3-AC2F-4208-B751-34CA047FCD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B933C48-5040-43C3-879F-CBECA881F0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B933C48-5040-43C3-879F-CBECA881F0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B933C48-5040-43C3-879F-CBECA881F0BD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B933C48-5040-43C3-879F-CBECA881F0BD}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

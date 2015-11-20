@@ -1,0 +1,5 @@
+X:\Folder Redirection\My Documents\GitHub\HectorBlog\HectorBlog\HectorBlog.Classes\bin\Debug\HectorBlog.Classes.dll
+X:\Folder Redirection\My Documents\GitHub\HectorBlog\HectorBlog\HectorBlog.Classes\bin\Debug\HectorBlog.Classes.pdb
+X:\Folder Redirection\My Documents\GitHub\HectorBlog\HectorBlog\HectorBlog.Classes\obj\Debug\HectorBlog.Classes.csprojResolveAssemblyReference.cache
+X:\Folder Redirection\My Documents\GitHub\HectorBlog\HectorBlog\HectorBlog.Classes\obj\Debug\HectorBlog.Classes.dll
+X:\Folder Redirection\My Documents\GitHub\HectorBlog\HectorBlog\HectorBlog.Classes\obj\Debug\HectorBlog.Classes.pdb
